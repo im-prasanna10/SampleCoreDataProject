@@ -1,0 +1,2 @@
+# SampleCoreDataProject
+CoreDataProject
